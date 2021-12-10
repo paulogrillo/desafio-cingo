@@ -1,0 +1,17 @@
+com\cingo\logstore\repostory\LogRepository.class
+com\cingo\logstore\mapper\ObjectMapperProvider.class
+com\cingo\logstore\jpa\LogStoreEntityManagerFactory.class
+com\cingo\logstore\entity\Log.class
+com\cingo\logstore\Application.class
+com\cingo\logstore\entity\factory\impl\DefaultLogFactory.class
+com\cingo\logstore\job\Job.class
+com\cingo\logstore\logfile\LogWrapperBuildException.class
+com\cingo\logstore\job\impl\LogStoreJob.class
+com\cingo\logstore\logfile\LogFileWrapper.class
+com\cingo\logstore\logfile\LogWrapper.class
+com\cingo\logstore\entity\factory\LogFactory.class
+com\cingo\logstore\filters\CORSFilter.class
+com\cingo\logstore\resource\LogResource.class
+com\cingo\logstore\job\JobException.class
+com\cingo\logstore\repostory\Repository.class
+com\cingo\logstore\logfile\LogWrapperFactory.class
